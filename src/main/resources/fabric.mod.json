@@ -30,7 +30,7 @@
     "fabric": "*",
     "malilib": "*",
     "fabricloader": ">=0.8.2",
-    "minecraft": "1.15.x"
+    "minecraft": "1.16.1"
   },
   "suggests": {
     "flamingo": "*"

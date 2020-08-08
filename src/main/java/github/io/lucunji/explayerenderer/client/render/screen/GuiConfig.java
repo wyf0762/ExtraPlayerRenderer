@@ -39,11 +39,11 @@ public class GuiConfig extends GuiConfigsBase {
         }
     }
 
-    @Override
-    public void render(int mouseX, int mouseY, float partialTicks) {
-        playerHUD.render(++this.ticks);
-        super.render(mouseX, mouseY, partialTicks);
-    }
+//    @Override
+//    public void render(int mouseX, int mouseY, float partialTicks) {
+//        playerHUD.render(++this.ticks);
+//        super.render(mouseX, mouseY, partialTicks);
+//    }
 
     @Override
     public List<ConfigOptionWrapper> getConfigs() {
