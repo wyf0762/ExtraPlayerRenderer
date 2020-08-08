@@ -1,0 +1,22 @@
+{
+  "Parameters": {
+    "spectatorAutoSwitch": true,
+    "playerName": "",
+    "offsetX": 0.764367816091954,
+    "offsetY": 1.1896551724137931,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "size": 0.22988505747126436,
+    "mirror": false,
+    "pitchMin": -20.0,
+    "pitchMax": 20.0,
+    "pitchOffset": 0.0,
+    "headYawMin": 15.0,
+    "headYawMax": 15.0,
+    "bodyYawMin": 0.0,
+    "bodyYawMax": 0.0,
+    "sneakingYOffset": -10.0,
+    "elytraYOffset": -72.41379310344828
+  }
+}

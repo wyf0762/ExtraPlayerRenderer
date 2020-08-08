@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "github/io/lucunji/explayerenderer/mixin/MixinGameRenderer": {
+      "render(FJZ)V": "Lnet/minecraft/class_757;method_3192(FJZ)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "github/io/lucunji/explayerenderer/mixin/MixinGameRenderer": {
+        "render(FJZ)V": "Lnet/minecraft/class_757;method_3192(FJZ)V"
+      }
+    }
+  }
+}
